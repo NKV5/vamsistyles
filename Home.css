@@ -1,0 +1,275 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 653px;
+}
+
+.u-section-1 .u-slider-1 {
+  min-height: 572px;
+  margin-bottom: 16px;
+  margin-top: 65px;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/download.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6rem;
+  margin: 89px 214px 0 251px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  margin: 6px 40px 0 425px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/BrandyMelville.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 40px;
+}
+
+.u-section-1 .u-text-3 {
+  font-size: 6rem;
+  margin: 111px 173px 0 212px;
+}
+
+.u-section-1 .u-text-4 {
+  font-size: 1.875rem;
+  margin: 0 0 0 385px;
+}
+
+.u-section-1 .u-image-3 {
+  background-image: url("images/NewtotheShop.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 6rem;
+  margin: 128px 190px 0 276px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1.875rem;
+  margin: 0 -53px 0 562px;
+}
+
+.u-section-1 .u-image-4 {
+  background-image: url("images/CARTIERParisFrance_ArtDeco_photobyGoodMorningVMpinnedbyTonvanderVeer.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 15px 50px;
+}
+
+.u-section-1 .u-text-7 {
+  font-size: 6rem;
+  margin: 86px 150px 0 216px;
+}
+
+.u-section-1 .u-text-8 {
+  font-size: 1.875rem;
+  background-image: none;
+  margin: -10px 37px 0 379px;
+}
+
+.u-section-1 .u-image-5 {
+  background-image: url("images/GlamourandLuxury.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-9 {
+  font-size: 6rem;
+  margin: 85px 196px 0 209px;
+}
+
+.u-section-1 .u-text-10 {
+  font-size: 1.875rem;
+  margin: 0 27px 0 379px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  width: 50px;
+  height: 50px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  width: 50px;
+  height: 50px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 114px;
+    margin-left: 151px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 265px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 73px;
+    margin-left: 112px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 285px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 90px;
+    margin-left: 176px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 462px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 50px;
+    margin-left: 116px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 0;
+    margin-left: 216px;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 96px;
+    margin-left: 109px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-right: 0;
+    margin-left: 205px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 4px;
+    margin-left: 41px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 45px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 85px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 46px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 352px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 36px;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-left: 262px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-6 {
+    margin-left: 162px;
+  }
+}
